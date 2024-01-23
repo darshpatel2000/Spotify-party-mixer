@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "spx",
+  "version": "1.0.0",
+  "description": "SpotifyPartyMix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Spotify",
+    "Party",
+    "Playlist"
+  ],
+  "author": "Chandresh Lokesha",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mongoose": "^7.3.0"
+  }
+}
